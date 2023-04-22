@@ -1,0 +1,21 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Aplikasi TikTok sangat seru dan bikin hibur hati.\n2. Saya suka banget dengan efek-efek keren di TikTok.\n3. Terima kasih untuk update baru di TikTok, semakin bagussssss!\n4. Orang-orang sekarang banyak yang menggunakan TikTok untuk menghibur diri.\n5. Akun TikTok saya akhir-akhir ini sering mendapatkan like dan bintang.\n6. Saya udah download TikTok dari dulu dan sangat terima kasih karena sangat berguna untuk hibur diri di rumah.\n7. Bagussssss, TikTok memang aplikasi yang sangat bagus untuk menghibur masyarakat yang sedang bekerja di rumah.\n8. Pokoknya kalau kamu lagi kecewa, langsung buka TikTok untuk menghibur diri.\n9. TikTok dengan efek-efeknya yang kren bisa bantu saya untuk atur mood.\n10. Mantap, TikTok memberikan banyak manfaat bagi orang-orang.\n11. Saya love TikTok karena efek keren dan asik banget.\n12. Aplikasi TikTok memang amazing, semua efeknya siip dan mantep!\n13. Bagusss, TikTok memberikan hasil yang lumayan dengan coin.\n14. Terima kasih TikTok atas kemudahan login pada semua perangkat.\n15. Josss, TikTok memberikan efek-efek bangt yang bisa digunakan untuk mempercantik live streaming.\n16. Saya punya temen yang poko dan membantu saya untuk bantu like pada akun TikTok saya.\n17. Efek TikTok yang lucu-lucu bisa mempermudah saya untuk mengajarkan hal-hal pada anak-anak.\n18. TikTok menghasilkan uang yang besar, jadi saya pake untuk cari nafkah.\n19. Good job TikTok, efeknya terbaru dan bagus-bagus banget.\n20. TikTok membantu saya untuk tarik perhatian orang dengan hasil video yang bagussss.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1682157222,
+  "id": "chatcmpl-784E2T1BKvKXLKKCLwtBMrgBtlIBk",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 458,
+    "prompt_tokens": 257,
+    "total_tokens": 715
+  }
+}

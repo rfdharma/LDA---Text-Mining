@@ -1,0 +1,21 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "TikTok merupakan salah satu aplikasi hiburan yang sedang digemari masyarakat. Dengan fitur yang seru dan terus diperbarui, membuat orang semakin suka dan menyukai aplikasi ini. Efek live yang keren dan banyak pilihan, termasuk atur bintang yang bagus, menjadikan aplikasi ini sangat menarik untuk di-download. Buat orang yang membutuhkan hiburan dan terhibur, TikTok bisa menjadi pilihan yang bagus. Terimakasih TikTok, sudah membantu saya dan banyak orang untuk merasa happy dan senang. Meski kadang ada kecewa jika akun orang yang di-like ternyata jelek, tapi tetap ada efek lucu yang bisa menghibur. Buat saya, TikTok adalah aplikasi yang sangat bermanfaat dan awesome. Dengan menggunakan aplikasi ini, saya berhasil mendapatkan banyak teman dan juga hasil dari iklan yang dipasang di akun saya, yang jelas membuat saya mendapatkan banyak coin dan uang. Pokoknya, terimakasih TikTok, kamu memang bangus dan siip!",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1682157472,
+  "id": "chatcmpl-784I449lN4TMyljRxMClnVQHXWiJH",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 252,
+    "prompt_tokens": 258,
+    "total_tokens": 510
+  }
+}
